@@ -47,7 +47,7 @@ Please provide the notebook code, along with an explanation of each step and fun
 Please include your considerations for scalability and data security in the given scenario.
 
 ## Submission
-- Please fork this repository as a **private repository**.
+- Please clone and recreate this repository as a **private repository**.
 - Invite `matthewlam-lcjg` as a collaborator for submission.
 
 Good luck!
