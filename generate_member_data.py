@@ -32,3 +32,5 @@ for _ in range(num_records):
 # Create pandas DataFrame from the generated data
 df_members = pd.DataFrame(member_data, columns=['member_id', 'first_name', 'last_name', 'email', 'phone_number', 'address', 'city', 'country', 'registration_date'])
 
+# Display sample data
+df_members.head()
