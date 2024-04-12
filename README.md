@@ -46,7 +46,7 @@ Please note that you'll need to install the faker library in your Databricks env
 
 
 ## Part 2 - Scenario
-Please design (a) fact table(s) in delta table format to store invoice data in `invoice.pdf` and provide the table schema specification.
+Please design (a) fact table(s) in delta table format to store transaction data in `invoice.pdf` and provide the table schema specification.
 
 
 ## Submission
